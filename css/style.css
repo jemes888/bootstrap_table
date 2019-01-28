@@ -1,0 +1,12 @@
+.background-color{
+	background-color: black;
+	min-height: 50px;
+	color: red;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 30px;
+	font-weight: 800;
+}
+.container-fluid {
+    margin-top: 18px;
+}
